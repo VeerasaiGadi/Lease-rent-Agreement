@@ -1,0 +1,4 @@
+Flask
+docxtpl
+num2words
+python-dateutil
